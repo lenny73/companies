@@ -1,0 +1,48 @@
+Leonid Suchkov
+CISC 3140
+Assignment 2 Part B
+
+
+1.Choose a company to research: Amazon 
+
+About Amazon
+	Amazon is a cloud computing giant and the largest American e-commerce company. It was founded in 1994 by Jeff Bezos.
+Originally known for selling books through its website (and later digital versions via its Kindle e-reader), Amazon has built up a customer service, inventory, and shipping empire that allows the site to offer everything from clothes to lawn furniture to janitorial supplies. It also sells digital content like movies, music, and apps. Its Amazon Web Services arm is a multibillion-dollar provider of cloud-based services for millions of business customers around the world, including government agencies and universities. And it’s a major player in consumer electronics--not only by offering devices such as Fire tablets and TV boxes, but also via its Alexa AI assistant service, which made news at the CES 2017 gadget show by being built into everything from LG refrigerators to Ford cars.
+2.Identify that company’s mission statement or vision:
+
+Amazon mission statement is to “serve consumers through online and physical stores and focus on selection, price, and convenience.”
+Amazon vision statement is “to be Earth's most customer-centric company, where customers can find and discover anything they might want to buy online, and endeavors to offer its customers”
+
+3.Find out as much info on their tech stack, architecture, teams, languages, etc.:
+
+They have multiple Software Engineering positions and the company solving a lot of problems.
+I decided to choose for analyze The Demand Side Platform (DSP) Engineering team. They are hiring for Software Engineer position within Multichannel Advertising that’s building products and services that will growth of Amazon’s advertising business.
+
+The DSP Engineering team owns the web app for advertisers to place orders for programmatic ad campaigns on Amazon and most other sites across the Internet. They order management including capturing limit prices, targeting customer segments, spreadsheet-style inline editing, bulk order editing, integration with algorithms, and connectivity to advertising exchanges.
+
+ The team are looking for motivated software engineers to build web applications and services as developers with skills from HTML5/JavaScript on the UI to Java for middle tier services. The Engineer should comfortable developing in both web browser-based UI and server environments. 
+   	The Company Goals:
+
+ 	Provide a frictionless campaign management experience to internal and external customers by implementing customer-facing features 
+Enabling other development teams to build functionality.
+Seek to simplify and minimize the steps to create and optimize campaigns.
+
+Software Engineering role
+It is responsible for owning, designing and delivering highly scalable systems that will be used by advertisers to build, manage and serve beautiful, innovative ads. Team works across Amazon to target ads to Desktop, Mobile, and Kindle devices using innovative formats for Display, Video, and Audio ads. They’re building a full-service, full-stack advertising platform. They work as part of an agile dev team together with product managers to scope, design, implement, test and launch new features. 
+Tech Qualifications and Skills
+Include recent articles about The Demand Side Platform (DSP) Engineering team Software Engineer position requires:
+	Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design. 
+	JavaScript, HTML5, CSS, React.js
+	SQL or NoSQL experience
+	Experience using Amazon Web Services (EC2, S3, Dynamo)
+	Experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
+	Knowledge of CS fundamentals including data structures, algorithms, Object Oriented design
+	Automated testing
+	Bachelor’s Degree in computer science or a related discipline
+	Experience with automated test frameworks and libraries (e.g. JUnit, Mockito, Selenium)
+
+4. Research Process:
+
+https://www.amazon.jobs/en/jobs/813072/software-development-engineer
+https://en.wikipedia.org/wiki/Amazon_(company)
+https://advertising.amazon.com/products/amazon-dsp
